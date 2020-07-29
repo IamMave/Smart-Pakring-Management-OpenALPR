@@ -1,0 +1,2 @@
+img_url : http://192.168.0.192:8080/shot.jpg
+openalpr_apikey : sk_21e9b2070f33974e0159bce7
